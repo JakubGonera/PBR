@@ -3,8 +3,8 @@
 After cloning the repository 
 
 ```shell
-git clone git@github.com:Dydaktyka/Graphics3D.git
-cd Graphics3D
+git clone git@github.com:JakubGonera/PBR.git
+cd PBR
 git submodule init
 git submodule update
 ```
@@ -12,7 +12,7 @@ git submodule update
 To make this work you need to have the  ssh key added in you github account.
 This is the prefered option. If not you can use 
 ```shell
-git clone https://github.com/Dydaktyka/Graphics3D.git
+git clone https://github.com/JakubGonera/PBR/Graphics3D.git
 ```
 and log to you github account when prompted. 
 
