@@ -1,5 +1,10 @@
 # A 3D graphics programming project.
 
+Done as a part of internship at the Department of Game Technology at Jagiellonian University in Kraków. Contains demonstration of Physically Based Rendering renderer implemented in C++ and OpenGL.
+
+![Program preview](docs/PBRExample.png)
+
+# How to build
 After cloning the repository 
 
 ```shell
